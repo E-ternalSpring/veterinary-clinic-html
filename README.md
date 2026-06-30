@@ -82,7 +82,7 @@ Este projeto teve como foco consolidar os conhecimentos iniciais de HTML, desenv
 
 ## 🌐 Acesse o projeto
 
-👉 https://E-ternalSpring.github.io/vet-clinic-website-html/
+👉 https://E-ternalSpring.github.io/html-vet-clinic-website/
 
 ---
 
